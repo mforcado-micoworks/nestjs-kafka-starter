@@ -1,1 +1,1 @@
-## Simplest starter template for NestJS and Kafka.
+## Most minimum started configuration for NestJS and Kafka.
