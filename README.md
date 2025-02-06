@@ -1,1 +1,1 @@
-## Most minimum started configuration for NestJS and Kafka.
+## Most minimum starter configuration for NestJS and Kafka.
